@@ -1898,4 +1898,9 @@ footer {
     .search-block-media {
         width: 85%;
     }
+      #best-service p {
+        width: 90%;
+        font-size: 19px;
+        line-height: 21px;
+    }
 }
