@@ -1536,6 +1536,9 @@ footer {
     .container {
         max-width: 95%;
     }
+    .usluga-block {
+    height: 260px;
+    }
     .search-block {
         display: none;
     }
